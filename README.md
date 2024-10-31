@@ -41,7 +41,7 @@ This Windows Forms application is designed to manage product inventory and sales
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Inventory-and-Sales-Manager.git
+   git clone https://github.com/supunhg/Inventory-and-Sales-Manager.git
    ```
 2. Open the project in Visual Studio.
 3. Build the project to restore dependencies.
