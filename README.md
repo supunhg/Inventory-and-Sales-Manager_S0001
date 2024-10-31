@@ -53,7 +53,11 @@ This Windows Forms application is designed to manage product inventory and sales
 4. Access the **Reports** form to load product or sales reports.
 
 ## Screenshots
-*(Include relevant screenshots of each form and reports here)*
+![1](https://github.com/user-attachments/assets/977fa456-b379-4eb0-991d-e831c97dc27e)
+![2](https://github.com/user-attachments/assets/92ff2678-888b-41aa-91e7-119890f324dd)
+![3](https://github.com/user-attachments/assets/8976ce15-9f5d-4031-a391-73a2ec8739e1)
+![4](https://github.com/user-attachments/assets/e13a3e32-a9ad-494a-8115-23b173d9409e)
+
 
 ## Technologies Used
 - **C#** - Windows Forms
